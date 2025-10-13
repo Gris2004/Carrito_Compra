@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nom": "Laptop Asus",
+    "descrip": "512 GB de Almacenamiento, 16 GB de RAM, i7 de 12th Gen intel.",
+    "precio": 10000,
+    "imag": "/asus.jpg",
+    "cate": "Electronico",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nom": "Mochila Multifunción Multibolsillo",
+    "descrip": "6 bolsillos, diseño de tela liso, y capacidad de 50L.",
+    "precio": 899,
+    "imag": "/mochi.jpg",
+    "cate": "Accesorio",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "nom": "Sudadera Oversize",
+    "descrip": "Sudadera gruesa con capucha y bolsillo frontal.",
+    "precio": 749,
+    "imag": "/ove.jpg",
+    "cate": "Ropa",
+    "stock": 15
+  }, 
+  {
+    "id": 4,
+    "nom": "Máscara Led Luminosa Moon Knight Antifaz De Super Heroes",
+    "descrip": "Mascara de Moon Knight con leds integrados de tamaño unisex",
+    "precio": 170,
+    "imag":"/moon.jpg",
+    "cate": "Accesorio",
+    "stock": 20
+  },
+    {
+    "id": 5,
+    "nom": "Máscara de SpiderMan",
+    "descrip": "Mascara de Spiderman con movimiento en ojos y de tamaño unisex",
+    "precio": 280,
+    "imag":"/spider.jpg",
+    "cate": "Accesorio",
+    "stock": 20
+  },
+    {
+    "id": 6,
+    "nom": "Tableta Samsung Galaxys",
+    "descrip": "Tableta Samsung Galaxy Tab S10+ 256 GB 12 GB de RAM Pantalla de 12,4 Pulgadas S Pen y Funda tipo teclado con Trackpad incluidos",
+    "precio": 14000,
+    "imag":"/Galaxy.jpg",
+    "cate": "Electronico",
+    "stock": 30
+  }
+]
