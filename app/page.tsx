@@ -13,7 +13,7 @@ export default function Home() {
         <div className="mb-8">
           <h1 className="mb-2 text-4xl font-bold text-balance">Catálogo de Productos</h1>
           <p className="text-lg text-muted-foreground">
-            Descubre nuestra selección de productos tecnológicos de alta calidad
+            Descubre nuestra selección de productos de la mas alta calidad
           </p>
         </div>
 
